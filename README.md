@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+- test push trigger
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
