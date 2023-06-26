@@ -2,6 +2,7 @@
 
 - test push trigger
 - test skip CI
+- test pr trigger
 
 Repo for the `GitHub Actions Fundamentals` training.
 
