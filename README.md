@@ -1,6 +1,7 @@
 # GitHub Actions Fundamentals
 
 - test push trigger
+- test skip CI
 
 Repo for the `GitHub Actions Fundamentals` training.
 
